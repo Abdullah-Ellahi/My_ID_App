@@ -1,3 +1,5 @@
+# Get A Glimpse Of The Uploaded Pictures For Project Overview.
+
 # My_ID App
 
 Welcome to My_ID app, my personal identification showcase app developed using Flutter! This project is the result of my initial exploration of Flutter, aiming to create a simple yet functional personal information display.
